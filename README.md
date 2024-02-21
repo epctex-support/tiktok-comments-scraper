@@ -1,4 +1,4 @@
-[https://apify.com/epctex/tiktok-comment-scraper?fpr=yhdrb](https://apify.com/epctex/tiktok-comment-scraper?fpr=yhdrb)
+[https://apify.com/epctex/tiktok-comment-scraper](https://apify.com/epctex/tiktok-comment-scraper?fpr=yhdrb)
 
 # Actor - Tiktok Comments Scraper
 
